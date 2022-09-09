@@ -18,6 +18,9 @@ public class TugasPraktikum3Roy {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Nama  : Roy Rafles Matorang Pasaribu
+        //NPM   : 2117051058
+        
         Scanner input = new Scanner(System.in);
         char ulg;
         do{
@@ -77,11 +80,12 @@ public class TugasPraktikum3Roy {
                     System.out.println("Tidak Lulus! Dengan Predikat Gagal");
                     break;
                 default:
-                System.out.println("Huruf Mutu tidak sesuai");    
+                    System.out.println("Huruf Mutu tidak sesuai");    
             }
             
             System.out.println("Apakah Anda Ingin Mengulang(y/t)?");
             ulg = input.next().charAt(0);
+            ulg = Character.toLowerCase(ulg);
         }
         while(ulg!= 't');
         System.out.println("Program Selesai");

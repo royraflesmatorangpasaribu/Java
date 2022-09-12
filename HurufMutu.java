@@ -18,8 +18,6 @@ public class TugasPraktikum3Roy {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //Nama  : Roy Rafles Matorang Pasaribu
-        //NPM   : 2117051058
         
         Scanner input = new Scanner(System.in);
         char ulg;

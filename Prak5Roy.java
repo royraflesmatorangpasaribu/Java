@@ -51,6 +51,14 @@ public class Prak5Roy {
         int idx = fullname3.indexOf("Pasar");
         System.out.println(idx);
         
+        String name = "Roy Rafles M.P";
+        
+        System.out.println(name.contains("les"));
+        System.out.println(name.indexOf("les"));
+        System.out.println(name.equals("les"));// jika ingin true harus sama persis
+        //ex :
+        System.out.println(name.equals("Roy Rafles M.P"));
+        
     }
     
 }

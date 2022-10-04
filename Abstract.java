@@ -26,9 +26,8 @@ class Anjing extends Hewan{
     }
     @Override
     public void Makan(){
-        System.out.println("Anjing makan ikan");
+        System.out.println("Anjing makan Tulang");
     }
-    
 }
 
 public class KelompokAbstract {

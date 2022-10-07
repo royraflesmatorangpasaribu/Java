@@ -4,7 +4,6 @@ abstract class Hewan{
     //abstract method
     public abstract void Suara(); //jika tidak menggunakan abstract dia akan menjadi method biasa
     public abstract void Makan();
-    
 }
 //mengovewrite method yang di atas
 class Kucing extends Hewan{

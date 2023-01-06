@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package no1.java;
+package searchprogram.java;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author ASUS
  */
-public class No1Java {
+public class SearchProgram {
 
     /**
      * @param args the command line arguments

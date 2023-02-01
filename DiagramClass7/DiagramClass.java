@@ -56,4 +56,9 @@ class Student extends Person{
     public void setNpm(String npm) {
         this.npm = npm;
     }
+    
+    @Override
+    public void menulis(){
+        System.out.println("Menulis Tugas Akhir");
+    }
 }

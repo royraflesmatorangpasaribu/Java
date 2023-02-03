@@ -1,0 +1,12 @@
+Pak Budi memiliki sebuah Gentong berbentuk silinder. Ia ingin mengisi gentong tersebut dengan air. Ia ingin mengetahui berapa banyak air yang diperlukan untuk mengisi penuh gentong tersebut. Bantulah Pak Budi untuk menghitung berapa volume air untuk mengisi gentong tersebut!
+
+Perintah :
+Buatlah sebuah program java yang dapat menghitung volume gentong yang berbentuk silinder. Kemudian tampilkan pada console
+
+Input :
+Dua buah integer yaiut r dan t.
+Dimana r merupakan jari-jari alas dalam cm
+t merupakan tinggi gentong dalam cm.
+
+Output :
+sebuah nilai double yang merupakan volume air yang diperlukan untuk mengisi gentong dalam m^3

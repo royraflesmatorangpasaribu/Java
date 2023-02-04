@@ -1,0 +1,26 @@
+Adi sedang mencoba mengukur suhu ruangan di GIK. Namun ternyata ia membawa termometer yang hanya bisa mengukur suhu dalam Farenheit. Bantulah adi untuk mengukur suhur ruangan di GIK dalam Celcius!
+
+C = (F - 32) * 5/9
+Kemudian berdasarkan ketentuan berikut tentukan apakah suhu tersebut dingin, normal, atau panas.
+
+suhu < 24 : Dingin
+24 <= suhu <= 32.0 : Normal
+suhu > 32.0 : Panas 
+
+Keterangan :
+F = Suhu dalam Farenheit
+C = Suhu dalam Celcius
+
+input :
+sebuah nilai double yang merupakan suhu dalam Farenheit
+
+Output :
+Dua baris Output
+Baris pertama merupakan nilai suhu yang telah dikonversi dalam bentuk celcius dengan presisi 2 angka dibelakang koma
+Baris kedua merupakan sebuah String yang berisi "Dingin", "Normal", atau "Panas" sesuai dengan ketentuan di atas.
+
+For example:
+
+Input	    Result
+89        31.67
+          Normal

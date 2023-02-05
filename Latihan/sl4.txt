@@ -1,0 +1,36 @@
+Buatlah sebuah class Mobil yang memiliki atribut
+- String merk
+- String warna
+- integer tahun_keluaran
+- String nomor_rangka
+- Double harga.
+
+Selain itu buatlah setter dan getter untuk setiap atribut dalam class tersebut.
+Dalam class ini terdapat 3 buah constructor :
+1. Constructor default
+2. Contructor yang mengisi nilai seluruh atribut yang ada.
+
+Dalam class ini juga terdapat sebuah method hitungPajak() yang akan mengembalikan nilai double yang merupakan pajak yang harus dibayar oleh pemilik mobil dengan ketentuan :
+- Pajak mobil dengan tahun keluaran dibawah 2010 adalah 2.5% dari harga mobil
+- Pajak mobil dengan tahun keluaran 2010 - 2015 adalah 5% dari harga mobil
+- Pajak mobil dengan tahun keluaran 2016 - 2020 adalah 10% dari harga mobil
+- Pajak mobil dengan tahun keluaran setelah 2020 adalah 15% dari harga mobil
+
+For example:
+
+Test	                                              Result
+Mobil mobil1 = new Mobil();
+mobil1.setMerk("Toyota");
+mobil1.setWarna("Putih");
+mobil1.setTahunKeluaran(2017);
+mobil1.setHarga(200000000);
+System.out.println(mobil1.getMerk());
+System.out.println(mobil1.getWarna());
+System.out.println(mobil1.getTahunKeluaran());
+System.out.println(mobil1.getHarga());
+
+Result
+Toyota
+Putih
+2017
+200000000

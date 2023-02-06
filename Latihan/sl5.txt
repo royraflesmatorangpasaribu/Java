@@ -1,0 +1,31 @@
+Buatlah sebuah class Orang yang memiliki atribut :
+- String Nama
+- String alamat
+- Mobil mobil
+
+Selain itu buatlah setter dan getter untuk setiap atribut dalam class tersebut.
+Dalam class ini terdapat 2 buah constructor :
+1. Constructor yang mengisi nilai seluruh atribut yang ada.
+2. Constructor default
+
+Dalam class ini terdapat 1 buah method print yang akan mencetak biodata dan seluruh nilai dari mobil yang dimiliki orang tersebut dalam format :
+
+Nama: [nama]Alamat: [alamat]Mobil: [nama_mobil]Warna: [warna_mobil]Tahun Keluaran: [tahun_keluaran_mobil]Harga: [harga_mobil]Pajak: [pajak_mobil]
+Petunjuk :
+Sertakan class Mobil pada soal sebelumnya untuk menjawab soal ini.
+
+For example:
+
+Test	
+Mobil mobil2 = new Mobil("Avanza", "Hitam", 2010, 235000000);
+Orang budi = new Orang("Budi Gunawan", "Rejomulyo", mobil2);
+budi.print();
+
+Result
+Nama: Budi Gunawan
+Alamat: Rejomulyo
+Mobil: Avanza
+Warna: Hitam
+Tahun Keluaran: 2010
+Harga: 235000000
+Pajak: 11750000

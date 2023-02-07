@@ -9,3 +9,16 @@ c. Persyaratan: Mulai pengembangan
 
 d. Desain: Rencanakan pendekatan
 Jawaban : a d
+
+
+Manakah dua assignments yang valid untuk mengisi nilai a?
+Select one or more:
+
+a. int a; a = 10;
+
+b. int a = 10;
+
+c. int a = “10”;
+
+d. int a = 10
+Jawaban : a b

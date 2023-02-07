@@ -22,3 +22,16 @@ c. int a = “10”;
 
 d. int a = 10
 Jawaban : a b
+
+
+Dua pernyataan manakah yang benar tentang penggabungan string.
+Select one or more:
+
+a. Penggabungan string dapat dilakukan dengan variabel String dan String Literals.
+
+b. String dapat digabungkan menggunakan operator '+'
+
+c. Penggabungan string tidak dapat dilakukan dengan lebih dari dua String Literal.
+
+d. Penggabungan string tidak dapat dilakukan dengan angka
+Jawaban : a b

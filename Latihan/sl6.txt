@@ -35,3 +35,10 @@ c. Penggabungan string tidak dapat dilakukan dengan lebih dari dua String Litera
 
 d. Penggabungan string tidak dapat dilakukan dengan angka
 Jawaban : a b
+
+
+Dalam Java, method biasanya menyimpan properti dari sebuah objek.
+Select one:
+True
+False
+Jawaban : False

@@ -1,0 +1,11 @@
+Manakah dari berikut ini yang merupakan definisi yang memadai untuk komponen pengembangan perangkat lunak Model Spiral?
+Select one or more:
+
+a. Tes : Jalankan kode dan verifikasi hasil
+
+b. Kembangkan: Kumpulkan semua instruksi yang ditentukan
+
+c. Persyaratan: Mulai pengembangan
+
+d. Desain: Rencanakan pendekatan
+Jawaban : a d

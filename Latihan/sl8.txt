@@ -1,0 +1,32 @@
+Lanjutkan class Mahasiswa sebelumnya
+
+Modifikasi method printData yang memiliki parameter String jurusan yang ada pada class Mahasiswa. Tambahkan code agar method ini dapat menampilkan data mahasiswa beserta seluruh nilai yang dimiliki.
+
+Menggunakan konsep Overloading buat kembali method printData tanpa parameter. Method ini akan menampilkan data Mahasiswa beserta seluruh nilainya.
+
+Petunjuk :
+Anda bisa menambahkan import package bila diperlukan
+Pastikan tidak menyertakan package
+Pastikan tidak menyertakan public pada class Mahasiswa
+Pastikan hasil cetak dari method dalam format sebagai berikut 
+NPM : 2117051058
+Nama : Roy Rafles
+Nilai tugas : 85.0
+Nilai UTS : 80.0
+Nilai UAS : 81.0
+Nilai akhir : 0.0
+(Pastikan huruf kapital dan jumlah spasinya sama)
+
+For example:
+
+Test	
+Mahasiswa mhs = new Mahasiswa("Roy Rafles", "2117051058", 76, 80, 81);
+mhs.printData();
+
+Result
+NPM : 2117051058
+Nama : Roy Rafles
+Nilai tugas : 76.0
+Nilai UTS : 80.0
+Nilai UAS : 81.0
+Nilai akhir : 0.0

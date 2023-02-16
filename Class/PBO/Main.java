@@ -9,7 +9,7 @@ package roy;
  *
  * @author ASUS
  */
-public class Praktikum10_Roy {
+public class Roy {
 
     public static void main(String[] args) {
 
